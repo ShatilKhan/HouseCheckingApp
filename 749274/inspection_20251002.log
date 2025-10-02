@@ -1,0 +1,26 @@
+2025-10-02 10:02:55 - InspectionSystem - INFO - __init__:64 - Inspector initialized for order 749274 by user Bob
+2025-10-02 10:02:55 - InspectionSystem - INFO - process_and_save:184 - Processed part 1568 (CAM1) -> Status: OK
+2025-10-02 10:02:55 - InspectionSystem - WARNING - process_and_save:107 - Part 1569: Part missing detected
+2025-10-02 10:02:55 - InspectionSystem - INFO - process_and_save:184 - Processed part 1569 (CAM1) -> Status: NOK
+2025-10-02 10:02:55 - InspectionSystem - INFO - process_and_save:186 - Defects: Part Missing
+2025-10-02 10:02:55 - InspectionSystem - WARNING - process_and_save:107 - Part 1570: Part missing detected
+2025-10-02 10:02:55 - InspectionSystem - INFO - process_and_save:184 - Processed part 1570 (CAM1) -> Status: NOK
+2025-10-02 10:02:55 - InspectionSystem - INFO - process_and_save:186 - Defects: Part Missing
+2025-10-02 10:02:55 - InspectionSystem - INFO - process_and_save:184 - Processed part 1571 (CAM1) -> Status: OK
+2025-10-02 10:02:55 - InspectionSystem - INFO - process_and_save:184 - Processed part 1572 (CAM1) -> Status: OK
+2025-10-02 10:02:55 - InspectionSystem - WARNING - process_and_save:107 - Part 1573: Part missing detected
+2025-10-02 10:02:55 - InspectionSystem - INFO - process_and_save:184 - Processed part 1573 (CAM1) -> Status: NOK
+2025-10-02 10:02:55 - InspectionSystem - INFO - process_and_save:186 - Defects: Part Missing
+2025-10-02 10:36:20 - InspectionSystem - INFO - __init__:64 - Inspector initialized for order 749274 by user Bob
+2025-10-02 10:36:20 - InspectionSystem - INFO - process_and_save:184 - Processed part 1568 (CAM1) -> Status: OK
+2025-10-02 10:36:20 - InspectionSystem - WARNING - process_and_save:107 - Part 1569: Part missing detected
+2025-10-02 10:36:20 - InspectionSystem - INFO - process_and_save:184 - Processed part 1569 (CAM1) -> Status: NOK
+2025-10-02 10:36:20 - InspectionSystem - INFO - process_and_save:186 - Defects: Part Missing
+2025-10-02 10:36:20 - InspectionSystem - WARNING - process_and_save:107 - Part 1570: Part missing detected
+2025-10-02 10:36:20 - InspectionSystem - INFO - process_and_save:184 - Processed part 1570 (CAM1) -> Status: NOK
+2025-10-02 10:36:20 - InspectionSystem - INFO - process_and_save:186 - Defects: Part Missing
+2025-10-02 10:36:20 - InspectionSystem - INFO - process_and_save:184 - Processed part 1571 (CAM1) -> Status: OK
+2025-10-02 10:36:20 - InspectionSystem - INFO - process_and_save:184 - Processed part 1572 (CAM1) -> Status: OK
+2025-10-02 10:36:20 - InspectionSystem - WARNING - process_and_save:107 - Part 1573: Part missing detected
+2025-10-02 10:36:20 - InspectionSystem - INFO - process_and_save:184 - Processed part 1573 (CAM1) -> Status: NOK
+2025-10-02 10:36:20 - InspectionSystem - INFO - process_and_save:186 - Defects: Part Missing
